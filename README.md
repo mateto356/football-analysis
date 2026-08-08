@@ -71,16 +71,7 @@ against bottom sides scored noticeably fewer goals than other managers.
 
 ### Finding 2 — Win, draw and loss rates by opponent group
 
-| Manager | Opponent group | Games | Win% | Draw% | Loss% |
-|---|---|---|---|---|---|
-| Mourinho | 1st–5th | 22 | 63.6 | 22.7 | 13.6 |
-| Others | 1st–5th | 43 | 44.2 | 14.0 | 41.9 |
-| Mourinho | 6th–10th | 37 | 91.9 | 2.7 | 5.4 |
-| Others | 6th–10th | 54 | 75.9 | 13.0 | 11.1 |
-| Mourinho | 11th–15th | 30 | 80.0 | 10.0 | 10.0 |
-| Others | 11th–15th | 42 | 88.1 | 7.1 | 4.8 |
-| Mourinho | 16th–20th | 25 | 60.0 | 28.0 | 12.0 |
-| Others | 16th–20th | 51 | 86.3 | 7.8 | 5.9 |
+
 
 ![Win rate by opponent group](charts/win_rate_by_group.png)
 
